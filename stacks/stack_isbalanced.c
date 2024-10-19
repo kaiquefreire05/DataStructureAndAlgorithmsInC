@@ -31,6 +31,7 @@ bool isBalanced(const char text[]) {
     return isEmpty(&s);
 }
 
+/*
 int main() {
     const char test1[] = "{[()]}"; // Balanced
     const char test2[] = "{[(])}"; // Not balanced
@@ -50,3 +51,4 @@ int main() {
 
     return 0;
 }
+*/
